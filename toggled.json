@@ -12,10 +12,10 @@
   }],
   "logo": "carbon.png",
   "action": {
-    "URL": "//carbon.toggled.tech",
-    "text": "Try Carbon"
+    "URL": "//toggled.tech",
+    "text": "Try Toggled"
   },
-  "title": "Carbon Starter",
+  "title": "Toggled Starter",
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
