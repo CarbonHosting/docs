@@ -1,11 +1,11 @@
-# Custom Carbon Elements
+# Custom Toggled Elements
 
 ## Email Signup
 
 Create a mailing list signup which will display on your dashboard.
 
 ```html
-<carbonEmail data-name="<nickname>"></carbonEmail>
+<toggledEmail data-name="<nickname>"></toggledEmail>
 ```
 
 You can have multiple of these on each page.
@@ -13,7 +13,7 @@ You can have multiple of these on each page.
 Nickname will be displayed on your dashboard so you can see which forms are converting users to subscribers.
 
 ### DEMO
-<carbonEmail data-name="DEMO"></carbonEmail>
+<toggledEmail data-name="DEMO"></toggledEmail>
 
 ## Analytics
 
@@ -25,11 +25,11 @@ Use Google Analytics in your project.
 
 Only one element per page is supported.
 
-Keep in mind that Carbon will soon have built-in analytics.
+Keep in mind that Toggled will soon have built-in analytics.
 
-## Carbon Designs
+## Toggled Designs
 
-To import designs from external websites such as Codepen, Spline Etc. in Carbon, you must use the design manager. (If you try to use the js libraries from these providers they will not work in Carbon to prevent xss)
+To import designs from external websites such as Codepen, Spline Etc. in Toggled, you must use the design manager. (If you try to use the js libraries from these providers they will not work in Toggled to prevent xss)
 
 Below is an example for Spline.
 
