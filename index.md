@@ -1,20 +1,20 @@
-# Welcome to the Carbon Docs
+# Welcome to the Toggled Docs
 
-Thanks for choosing Carbon to make your site. We know there are a lot of choices so it means a lot!
+Thanks for choosing Toggled to make your site. We know there are a lot of choices so it means a lot!
 
-Carbon now supports MarkdownX.
+Toggled now supports MarkdownX.
 
 View the Docs [here](./Development).
 
 ## Creators
 
-Carbon was created by <a href="//github.com/@cosmixcom">@CosmixCom</a> and <a href="//github.com/@champsheard">@champsheard</a>
+Toggled was created by <a href="//github.com/@cosmixcom">@CosmixCom</a> and <a href="//github.com/@champsheard">@champsheard</a>
 
 ## Updates
 
 Signup for updates here:
 
-<carbonEmail data-name="docsForm"></carbonEmail>
+<toggledEmail data-name="docsForm"></toggledEmail>
 
 <googleAnalytics data-tag="G-XJV1Z34Z2K"></googleAnalytics>
 
