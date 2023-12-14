@@ -1,14 +1,14 @@
-# Getting Started With Carbon
+# Getting Started With Toggled
 
 ### Fork this Template
-Start off by forking the template at <a href="https://github.com/CarbonHosting/Carbon-Starter">CarbonHosting/Carbon-Starter</a>.
+Start off by forking this template.
 
 ![How to fork](https://orionideteam.nimbusweb.me/box/attachment/9239909/lyei9z1e23e316aezdac/x1EYvP0pdTsPfNQ9/screenshot-github.com-2023.09.10-11_07_53.png)
 
-### Carbon.json
-All control of your web app can be found in `carbon.json`
+### Toggled.json
+All control of your web app can be found in `toggled.json`
 
-Here is what the default `carbon.json` looks like:
+Here is what the default `toggled.json` looks like:
 ```json
 {
   "pages": [{
@@ -21,10 +21,10 @@ Here is what the default `carbon.json` looks like:
   }],
   "logo": "carbon.png",
   "action": {
-    "URL": "//carbon.toggled.tech",
-    "text": "Try Carbon"
+    "URL": "//toggled.tech",
+    "text": "Try Toggled"
   },
-  "title": "Carbon Starter"
+  "title": "Toggled Starter"
 }
 ```
 
@@ -45,7 +45,7 @@ To create a new page, you can need to add a JSON object to the array 'pages'.
 Deleting a page can simply be done by removing the object from the `pages` array.
 
 ### Customizing your Web App
-If you would like to edit the title, favicon, logo, or action button, then this can all be done via the `carbon.json` file.
+If you would like to edit the title, favicon, logo, or action button, then this can all be done via the `toggled.json` file.
 
 ```json
 {
