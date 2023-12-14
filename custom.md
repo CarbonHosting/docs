@@ -29,7 +29,7 @@ Keep in mind that Carbon will soon have built-in analytics.
 
 ## Carbon Designs
 
-To import designs from external websites such as Canva, Spline Etc. in Carbon, you must use the design manager. (If you try to use the js libraries from these providers they will not work in Carbon to prevent xss)
+To import designs from external websites such as Codepen, Spline Etc. in Carbon, you must use the design manager. (If you try to use the js libraries from these providers they will not work in Carbon to prevent xss)
 
 Below is an example for Spline.
 
@@ -37,9 +37,13 @@ Below is an example for Spline.
 <design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
 ```
 
+Below is an example for Codepen.
+
+```html
+<design data-layout="2D" data-type="codepen" data-url="[https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode](https://codepen.io/lavadev/embed/MWzxaQR?default-tab=html%2Cresult)"></design>
+```
+
 data-layout: 3D or 2D <br>
 data-type: Type of design. (E.g. Spline) * <br>
 data-url: CND/Embed URL of design * <br>
 
-### DEMO
-<design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
