@@ -43,6 +43,12 @@ Below is an example for Codepen.
 <design data-layout="2D" data-type="codepen" data-url="https://codepen.io/lavadev/embed/MWzxaQR?default-tab=html%2Cresult"></design>
 ```
 
+Below is an example for Replit.
+
+```html
+<design data-layout="2D" data-type="replit" data-url="https://replit.com/@CosmixCom/GravityAI"></design>
+```
+
 data-layout: 3D or 2D <br>
 data-type: Type of design. (E.g. Spline) * <br>
 data-url: CND/Embed URL of design * <br>
