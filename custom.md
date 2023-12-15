@@ -37,13 +37,13 @@ Below is an example for Spline.
 <design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
 ```
 
-Below is an example for Codepen.
+Below is an example for Codepen. (Please use the special embed link provided.)
 
 ```html
 <design data-layout="2D" data-type="codepen" data-url="https://codepen.io/lavadev/embed/MWzxaQR?default-tab=html%2Cresult"></design>
 ```
 
-Below is an example for Replit.
+Below is an example for Replit. (Please just use your Replit Project url not the embed URL)
 
 ```html
 <design data-layout="2D" data-type="replit" data-url="https://replit.com/@CosmixCom/GravityAI"></design>
