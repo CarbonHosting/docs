@@ -49,6 +49,12 @@ Below is an example for Replit. (Please just use your Replit Project url not the
 <design data-layout="2D" data-type="replit" data-url="https://replit.com/@CosmixCom/GravityAI"></design>
 ```
 
+Below is an example for Scratch. (Please just use your Project ID)
+
+```html
+<design data-layout="2D" data-type="scratch" data-projectID="923122579"></design>
+```
+
 data-layout: 3D or 2D <br>
 data-type: Type of design. (E.g. Spline) * <br>
 data-url: CND/Embed URL of design * <br>
