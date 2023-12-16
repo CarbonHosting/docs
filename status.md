@@ -1,7 +1,7 @@
 # Status
 
 ### Deployment
-ONLINE
+<toggledStatus data-url="https://toggled.tech"></toggledStatus>
 
 ### GITHUB APP
 ONLINE
