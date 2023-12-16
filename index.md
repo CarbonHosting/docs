@@ -6,7 +6,7 @@ View the Docs [here](./Development).
 
 ## Creators
 
-Toggled was created by <a href="//github.com/@cosmixcom">@CosmixCom</a> and <a href="//github.com/@champsheard">@champsheard</a>
+Toggled was created by <a href="//github.com/cosmixcom">@CosmixCom</a> and <a href="//github.com/champsheard">@champsheard</a>
 
 ## Updates
 
