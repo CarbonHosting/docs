@@ -4,7 +4,7 @@ Thanks for choosing Toggled to make your site. We know there are a lot of choice
 
 Toggled now supports MarkdownX.
 
-A GitHub app is in development.
+A GitHub app is in development.1
 
 View the Docs [here](./Development).
 
