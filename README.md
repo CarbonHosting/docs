@@ -19,7 +19,7 @@ Here is what the default `toggled.json` looks like:
     "name": "About",
     "doc": "about"
   }],
-  "logo": "carbon.png",
+  "logo": "Toggled.png",
   "action": {
     "URL": "//toggled.tech",
     "text": "Try Toggled"
