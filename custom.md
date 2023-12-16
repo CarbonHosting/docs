@@ -1,5 +1,7 @@
 # Custom Toggled Elements
 
+Toggled supports a variety of custom HTML blocks to make your life easier.
+
 ## Email Signup
 
 Create a mailing list signup which will display on your dashboard.
