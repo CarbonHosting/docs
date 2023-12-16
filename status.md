@@ -4,7 +4,7 @@
 <toggledStatus data-url="https://toggled.tech"></toggledStatus>
 
 ### GITHUB APP
-ONLINE
+<toggledStatus data-url="https://toggled.tech"></toggledStatus>
 
-### GITHUB AUTO-DEPLOYMENT
-ONLINE
+### GITHUB API
+<toggledStatus data-url="https://api.github.com"></toggledStatus>
