@@ -61,3 +61,14 @@ data-layout: 3D or 2D <br>
 data-type: Type of design. (E.g. Spline) * <br>
 data-url: CND/Embed URL of design * <br>
 
+### Toggled Status
+
+Ping pages to check the status.
+
+There are two outputs ONLINE or OFFLINE. Toggled sends a GET request to the specified URL. (Include https)
+
+```html
+<toggledStatus data-url="<URL TO PING>"></toggledStatus>
+```
+
+If this page returns 404, 403, 500 etc. It will return offline. The page must return an `"ok"` request to be online.
