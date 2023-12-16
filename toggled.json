@@ -6,9 +6,18 @@
   {
     "name": "Development",
     "doc": "README"
-  },{
+  },
+    {
     "name": "Custom Elements",
     "doc": "custom"
+  },
+  {
+    "name": "Status",
+    "doc": "status"
+  },
+  {
+    "name": "Support",
+    "doc": "support"
   }],
   "logo": "carbon.png",
   "action": {
