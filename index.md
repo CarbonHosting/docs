@@ -2,9 +2,6 @@
 
 Thanks for choosing Toggled to make your site. We know there are a lot of choices so it means a lot!
 
-Toggled now supports MarkdownX.
-
-A GitHub app is in development.
 
 View the Docs [here](./Development).
 
