@@ -71,4 +71,4 @@ There are two outputs ONLINE or OFFLINE. Toggled sends a GET request to the spec
 <toggledStatus data-url="<URL TO PING>"></toggledStatus>
 ```
 
-If this page returns 404, 403, 500 etc. It will return offline. The page must return an `"ok"` request to be online.
+If this page returns 404, 403, 500 etc. it will return offline. The page must return an `"ok"` request to be online.
