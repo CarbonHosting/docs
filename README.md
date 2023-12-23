@@ -24,7 +24,8 @@ Here is what the default `toggled.json` looks like:
     "URL": "//toggled.tech",
     "text": "Try Toggled"
   },
-  "title": "Toggled Starter"
+  "title": "Toggled Starter",
+  "members": ["Usernames of all Editors and Publishers *"]
 }
 ```
 
