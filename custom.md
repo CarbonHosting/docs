@@ -79,3 +79,18 @@ There are two outputs ONLINE or OFFLINE. Toggled sends a GET request to the spec
 ```
 
 If this page returns 404, 403, 500 etc. it will return offline. The page must return an `"ok"` request to be online.
+
+## Integrating AI
+
+Toggled has a built-in AI service. (Temporarily for no charge)
+
+```html
+<toggled-ai data-model="<AI MODEL>"></toggled-ai>
+```
+
+You can have multiple of these on each page.
+
+data-model: For basic text completions use `toggled-carbon`.
+
+### DEMO
+<toggled-ai data-model="toggled-carbon"></toggled-ai>
