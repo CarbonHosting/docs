@@ -84,6 +84,8 @@ If this page returns 404, 403, 500 etc. it will return offline. The page must re
 
 Toggled has a built-in AI service. (Temporarily for no charge)
 
+This uses the Google Vertex API.
+
 ```html
 <toggled-ai data-model="<AI MODEL>"></toggled-ai>
 ```
