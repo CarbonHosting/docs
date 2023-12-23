@@ -28,5 +28,6 @@
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
-  }
+  },
+  "members": ["cosmixcom", "champsheard"]
 }
