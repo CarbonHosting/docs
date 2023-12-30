@@ -1,4 +1,4 @@
-||Toggled Mail||
+||exempt||
 
 # Toggled Mail
 
