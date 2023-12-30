@@ -32,4 +32,4 @@ Once you start sending newsletters, it's important to comply with government reg
 
 The FCC requires you to have a method to unsubscribe a user from a mailng list, Toggled provides this for you. They also require that you include your address in the footer of the email. (Toggled does not monitor this, however you will be held responsible if damage occurs)
 
-A link to the FCC's official article can be found [here](https://www.fcc.gov/general/can-spam)https://www.fcc.gov/general/can-spam.
+A link to the FCC's official article can be found [here](https://www.fcc.gov/general/can-spam).
