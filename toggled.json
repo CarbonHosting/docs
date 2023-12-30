@@ -1,5 +1,6 @@
 {
-  "pages": [{
+  "pages": [
+    {
     "name": "Home",
     "doc": "index"
   },
@@ -18,7 +19,12 @@
   {
     "name": "Support",
     "doc": "support"
-  }],
+  },
+    {
+    "name": "Metadata",
+    "doc": "meta"
+  }
+  ],
   "logo": "carbon.png",
   "action": {
     "URL": "//toggled.tech",
