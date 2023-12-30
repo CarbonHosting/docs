@@ -1,3 +1,5 @@
+||Custom Elements||
+
 # Custom Toggled Elements
 
 Toggled supports a variety of custom HTML blocks to make your life easier.
