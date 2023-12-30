@@ -20,9 +20,13 @@
     "name": "Support",
     "doc": "support"
   },
-    {
+  {
     "name": "Metadata",
     "doc": "meta"
+  },
+  {
+    "name": "Toggled Mail",
+    "doc": "mail"
   }
   ],
   "logo": "carbon.png",
