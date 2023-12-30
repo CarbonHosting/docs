@@ -1,5 +1,6 @@
-||exempt||
-# Metadeta/Headers
+||Metadata||
+
+# Metadata/Headers
 
 To apply a custom title for all pages, you can apply it like this to your toggled.json file:
 
