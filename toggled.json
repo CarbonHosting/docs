@@ -27,6 +27,11 @@
   {
     "name": "Toggled Mail",
     "doc": "mail"
+  },
+  {
+    "name": "404",
+    "doc": "404",
+    "type": "404"
   }
   ],
   "logo": "carbon.png",
