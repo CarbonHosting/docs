@@ -1,4 +1,6 @@
-||Custom Elements||
+---
+name: Custom Elements
+---
 
 # Custom Toggled Elements
 
