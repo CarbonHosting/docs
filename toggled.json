@@ -29,6 +29,10 @@
     "doc": "mail"
   },
   {
+    "name": "Imports",
+    "doc": "import"
+  },
+  {
     "name": "404",
     "doc": "404",
     "type": "404"
