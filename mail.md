@@ -1,4 +1,6 @@
-||exempt||
+---
+name: Toggled Mail
+---
 
 # Toggled Mail
 
