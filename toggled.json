@@ -35,6 +35,7 @@
   }
   ],
   "logo": "carbon.png",
+  "css": "style.css",
   "action": {
     "URL": "//toggled.tech",
     "text": "Try Toggled"
