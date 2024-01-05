@@ -1,7 +1,7 @@
 # Getting Started With Toggled
 
 ### Fork this Template
-Start off by forking [this template](https://github.com/toggledtech/Toggled-Starter).
+Start off by forking our starter template: [https://github.com/toggledtech/Toggled-Starter](https://github.com/toggledtech/Toggled-Starter).
 
 ![How to fork](https://orionideteam.nimbusweb.me/box/attachment/9239909/lyei9z1e23e316aezdac/x1EYvP0pdTsPfNQ9/screenshot-github.com-2023.09.10-11_07_53.png)
 
@@ -59,3 +59,7 @@ If you would like to edit the title, favicon, logo, or action button, then this 
   "favicon": "The file path of your favicon. (Cannot use external URL the photo must be in your GitHub Repo)",
 }
 ```
+
+### Editor Notes
+
+You must create your Toggled site in the <b>`main`</b> branch.
