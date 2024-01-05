@@ -9,3 +9,7 @@ body {
             height: 100vh;
           color: #9b9ca7;
         }
+
+pre, code {
+            background-color: #18181a;
+}
