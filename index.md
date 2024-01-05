@@ -1,4 +1,6 @@
-||Docs - Toggled||
+---
+name: Toggled Docs
+---
 
 # Welcome to the Toggled Docs
 
