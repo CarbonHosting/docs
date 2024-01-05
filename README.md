@@ -1,3 +1,7 @@
+---
+name: Development
+---
+
 # Getting Started With Toggled
 
 ### Fork this Template
