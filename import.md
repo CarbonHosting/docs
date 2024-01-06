@@ -31,7 +31,8 @@ For example objects.js
 For simplicity, you create a block the same way you create a JavaScript function.
 
 ```js
-export const BLOCKNAME = () => {
+export const BLOCKNAME = (e) => {
+  //e is the parent element of the block access dataset via e.dataset
   const blockCode = `<p>Hello World</p>`;
 
   return blockCode;
