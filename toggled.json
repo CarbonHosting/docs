@@ -1,8 +1,12 @@
 {
   "pages": [
     {
+      "name": "Introduction",
+      "type": "group"
+    {
     "name": "Home",
-    "doc": "index"
+    "doc": "index",
+    "group": "Introduction"
   },
   {
     "name": "Development",
