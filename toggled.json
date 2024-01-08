@@ -18,6 +18,10 @@
       "doc": "custom"
     },
     {
+      "name": "Troubleshooting",
+      "type": "group"
+    },
+    {
       "name": "Status",
       "doc": "status"
     },
@@ -26,16 +30,32 @@
       "doc": "support"
     },
     {
+      "name": "Customization",
+      "type": "group"
+    },
+    {
       "name": "Metadata",
       "doc": "meta"
+    },
+    {
+      "name": "Addon Features",
+      "type": "group"
     },
     {
       "name": "Toggled Mail",
       "doc": "mail"
     },
     {
+      "name": "API Endpoints",
+      "type": "group"
+    },
+    {
       "name": "Import API",
       "doc": "import"
+    },
+    {
+      "name": "CLI",
+      "doc": "cli"
     },
     {
       "name": "404",
