@@ -3,44 +3,45 @@
     {
       "name": "Introduction",
       "type": "group"
+    },
     {
-    "name": "Home",
-    "doc": "index",
-    "group": "Introduction"
-  },
-  {
-    "name": "Development",
-    "doc": "README"
-  },
+      "name": "Home",
+      "doc": "index",
+      "group": "Introduction"
+    },
     {
-    "name": "Custom Elements",
-    "doc": "custom"
-  },
-  {
-    "name": "Status",
-    "doc": "status"
-  },
-  {
-    "name": "Support",
-    "doc": "support"
-  },
-  {
-    "name": "Metadata",
-    "doc": "meta"
-  },
-  {
-    "name": "Toggled Mail",
-    "doc": "mail"
-  },
-  {
-    "name": "Import API",
-    "doc": "import"
-  },
-  {
-    "name": "404",
-    "doc": "404",
-    "type": "404"
-  }
+      "name": "Development",
+      "doc": "README"
+    },
+      {
+      "name": "Custom Elements",
+      "doc": "custom"
+    },
+    {
+      "name": "Status",
+      "doc": "status"
+    },
+    {
+      "name": "Support",
+      "doc": "support"
+    },
+    {
+      "name": "Metadata",
+      "doc": "meta"
+    },
+    {
+      "name": "Toggled Mail",
+      "doc": "mail"
+    },
+    {
+      "name": "Import API",
+      "doc": "import"
+    },
+    {
+      "name": "404",
+      "doc": "404",
+      "type": "404"
+    }
   ],
   "logo": "carbon.png",
   "action": {
