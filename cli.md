@@ -10,7 +10,7 @@ Use this to design, develop, and deploy packages, addons, and more for Toggled.t
 
 Install it via NPM with:
 
-```bash 
+```bash
 npm i toggled-cli
 ```
 
