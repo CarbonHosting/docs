@@ -12,8 +12,6 @@ You can import custom blocks the same way you would import a function in static 
 import { BLOCK } from 'URL'
 ```
 
-Once you have imported a block, you can call it just like a normal HTML block.
-
 You can also import a package via its name. Like this:
 
 ```js
@@ -21,6 +19,8 @@ import { BLOCK } from 'Package_Name'
 ```
 
 (The package must be registered in the Toggled Package Registry. See more at https://www.npmjs.com/package/toggled-cli.) 
+
+Once you have imported a block, you can call it just like a normal HTML block.
 
 ```html
 <BLOCK></BLOCK>
