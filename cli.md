@@ -53,8 +53,6 @@ import { BLOCKNAME } from 'https://your-server.com/your-file.js'
 
 Your server must be https and configured for CORS. See https://toggled.tech/site/toggledtech-docs/Imports.
 
----
-
 The other option it to deploy it directly from the CLI to our servers. This won't give you as much control but you will not have to worry about hosting.
 
 Deploy it by running this command in terminal.
