@@ -1,5 +1,6 @@
 ---
 name: Custom Elements
+description: Choose from Toggled's expansive collection of custom blocks.
 ---
 
 # Custom Toggled Elements
