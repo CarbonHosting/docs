@@ -1,5 +1,6 @@
 ---
 name: Development
+description: Develop Toggled Projects
 ---
 
 # Getting Started With Toggled
