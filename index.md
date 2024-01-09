@@ -1,5 +1,6 @@
 ---
 name: Toggled Docs
+description: Design beautiful things with Toggled
 ---
 
 # Welcome to the Toggled Docs
