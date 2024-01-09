@@ -1,5 +1,6 @@
 ---
 name: Toggled CLI
+description: Control Toggled with the command line.
 ---
 
 # Using The Toggled CLI
