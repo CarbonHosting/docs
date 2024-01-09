@@ -1,5 +1,6 @@
 ---
 name: Toggled Status
+description: Toggled status updates and pings
 ---
 
 # Status
