@@ -1,5 +1,6 @@
 ---
 name: Toggled Metadata
+description: Set metadata for Toggled.
 ---
 
 # Metadata/Headers
@@ -9,6 +10,7 @@ Every page requires a title. You provide this to Toggled by placing this snippet
 ```md
 ---
 name: YOUR_PAGE_NAME
+description: YOUR_PAGE_DESCRIPTION
 ---
 ```
 
