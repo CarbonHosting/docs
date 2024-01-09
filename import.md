@@ -1,6 +1,6 @@
 ---
 name: Imports
-description: Use Toggled's Collection of Custom Blocks
+description: Import and design custom blocks and features for Toggled
 ---
 
 # Importing Custom Blocks
