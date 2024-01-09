@@ -1,5 +1,6 @@
 ---
 name: Toggled Mail
+description: Send newsletters and mail from Toggled
 ---
 
 # Toggled Mail
