@@ -11,11 +11,7 @@
     },
     {
       "name": "Development",
-      "doc": "README"
-    },
-      {
-      "name": "Custom Elements",
-      "doc": "custom"
+      "doc": "dev"
     },
     {
       "name": "Troubleshooting",
@@ -32,6 +28,10 @@
     {
       "name": "Customization",
       "type": "group"
+    },
+    {
+      "name": "Custom Elements",
+      "doc": "custom"
     },
     {
       "name": "Metadata",
