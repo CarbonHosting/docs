@@ -14,7 +14,7 @@
       "doc": "dev"
     },
     {
-      "name": "Troubleshooting",
+      "name": "Support",
       "type": "group"
     },
     {
@@ -24,6 +24,10 @@
     {
       "name": "Support",
       "doc": "support"
+    },
+    {
+      "name": "Billing",
+      "doc": "payments"
     },
     {
       "name": "Customization",
