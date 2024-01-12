@@ -26,10 +26,6 @@
       "doc": "support"
     },
     {
-      "name": "Billing",
-      "doc": "payments"
-    },
-    {
       "name": "Customization",
       "type": "group"
     },
@@ -65,7 +61,23 @@
       "name": "404",
       "doc": "404",
       "type": "404"
-    }
+    },
+    {
+      "name": "Billing",
+      "type": "group"
+    },
+    {
+      "name": "FAQ",
+      "doc": "payments"
+    },
+    {
+      "name": "Enterprise",
+      "doc": "enterprise"
+    },
+    {
+      "name": "Education",
+      "doc": "education"
+    },
   ],
   "logo": "carbon.png",
   "action": {
