@@ -46,6 +46,10 @@
       "doc": "mail"
     },
     {
+      "name": "Scratch",
+      "doc": "scratch"
+    },
+    {
       "name": "API Endpoints",
       "type": "group"
     },
