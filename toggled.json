@@ -126,7 +126,7 @@
       "name": "License",
       "doc": "license",
       "group": "legal"
-    },
+    }
   ],
   "logo": "carbon.png",
   "action": {
