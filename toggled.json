@@ -1,65 +1,90 @@
 {
+  "defaultNav": "Develop",
+  "navigation": [
+    {
+      "display": "Develop",
+      "id": "Develop"
+    },
+    {
+      "display": "Legal",
+      "id": "legal"
+    }
+  ]
   "pages": [
     {
       "name": "Introduction",
-      "type": "group"
+      "type": "marker",
+      "group": "Develop"
     },
     {
       "name": "Home",
       "doc": "index",
-      "group": "Introduction"
+      "group": "Develop"
     },
     {
       "name": "Development",
-      "doc": "dev"
+      "doc": "dev",
+      "group": "Develop"
     },
     {
       "name": "Support",
-      "type": "group"
+      "type": "marker",
+      "group": "Develop"
     },
     {
       "name": "Status",
-      "doc": "status"
+      "doc": "status",
+      "group": "Develop"
     },
     {
       "name": "Support",
-      "doc": "support"
+      "doc": "support",
+      "group": "Develop"
     },
     {
       "name": "Customization",
-      "type": "group"
+      "type": "marker",
+      "group": "Develop"
     },
     {
       "name": "Custom Elements",
-      "doc": "custom"
+      "doc": "custom",
+      "group": "Develop"
     },
     {
       "name": "Metadata",
-      "doc": "meta"
+      "doc": "meta",
+      "group": "Develop"
     },
     {
       "name": "Addon Features",
-      "type": "group"
+      "type": "marker",
+      "group": "Develop"
     },
     {
       "name": "Toggled Mail",
-      "doc": "mail"
+      "doc": "mail",
+      "group": "Develop"
     },
     {
       "name": "Scratch",
-      "doc": "scratch"
+      "doc": "scratch",
+      "group": "Develop"
     },
     {
       "name": "API Endpoints",
-      "type": "group"
+      "type": "marker",
+      "group": "Develop"
     },
     {
       "name": "Import API",
-      "doc": "import"
+      "doc": "import",
+      "group": "Develop"
     },
     {
       "name": "CLI",
-      "doc": "cli"
+      "doc": "cli",
+      "group": "Develop"
     },
     {
       "name": "404",
@@ -68,20 +93,40 @@
     },
     {
       "name": "Billing",
-      "type": "group"
+      "type": "marker",
+      "group": "Develop"
     },
     {
       "name": "FAQ",
-      "doc": "payments"
+      "doc": "payments",
+      "group": "Develop"
     },
     {
       "name": "Enterprise",
-      "doc": "enterprise"
+      "doc": "enterprise",
+      "group": "Develop"
     },
     {
       "name": "Education",
-      "doc": "education"
-    }
+      "doc": "education",
+      "group": "Develop"
+    },
+    
+    {
+      "name": "Agreements",
+      "type": "marker",
+      "group": "legal"
+    },
+    {
+      "name": "Terms",
+      "doc": "terms",
+      "group": "legal"
+    },
+    {
+      "name": "License",
+      "doc": "license",
+      "group": "legal"
+    },
   ],
   "logo": "carbon.png",
   "action": {
