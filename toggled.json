@@ -8,6 +8,10 @@
     {
       "display": "Legal",
       "id": "legal"
+    },
+    {
+      "display": "Support",
+      "id": "support"
     }
   ],
   "pages": [
@@ -24,21 +28,6 @@
     {
       "name": "Development",
       "doc": "dev",
-      "group": "Develop"
-    },
-    {
-      "name": "Support",
-      "type": "marker",
-      "group": "Develop"
-    },
-    {
-      "name": "Status",
-      "doc": "status",
-      "group": "Develop"
-    },
-    {
-      "name": "Support",
-      "doc": "support",
       "group": "Develop"
     },
     {
@@ -126,6 +115,27 @@
       "name": "License",
       "doc": "license",
       "group": "legal"
+    },
+
+    {
+      "name": "Support",
+      "type": "marker",
+      "group": "support"
+    },
+    {
+      "name": "Github",
+      "doc": "github",
+      "group": "support"
+    },
+    {
+      "name": "Status",
+      "doc": "status",
+      "group": "support"
+    },
+    {
+      "name": "Support",
+      "doc": "support",
+      "group": "support"
     }
   ],
   "logo": "carbon.png",
@@ -133,7 +143,7 @@
     "URL": "//toggled.tech",
     "text": "Try Toggled"
   },
-  "title": "Toggled Starter",
+  "title": "Toggled Documentation",
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
