@@ -61,6 +61,11 @@
       "group": "Develop"
     },
     {
+      "name": "Forms",
+      "doc": "forms",
+      "group": "Develop"
+    },
+    {
       "name": "API Endpoints",
       "type": "marker",
       "group": "Develop"
