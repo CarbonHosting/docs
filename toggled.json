@@ -1,9 +1,9 @@
 {
-  "defaultNav": "Develop",
   "navigation": [
     {
       "display": "Develop",
-      "id": "Develop"
+      "id": "Develop",
+      "default": true
     },
     {
       "display": "Legal",
