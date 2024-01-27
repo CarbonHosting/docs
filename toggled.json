@@ -6,6 +6,10 @@
       "default": true
     },
     {
+      "display": "Addons",
+      "id": "addons"
+    },
+    {
       "display": "Legal",
       "id": "legal"
     },
@@ -43,26 +47,6 @@
     {
       "name": "Metadata",
       "doc": "meta",
-      "group": "Develop"
-    },
-    {
-      "name": "Addon Features",
-      "type": "marker",
-      "group": "Develop"
-    },
-    {
-      "name": "Toggled Mail",
-      "doc": "mail",
-      "group": "Develop"
-    },
-    {
-      "name": "Scratch",
-      "doc": "scratch",
-      "group": "Develop"
-    },
-    {
-      "name": "Forms",
-      "doc": "forms",
       "group": "Develop"
     },
     {
@@ -104,6 +88,32 @@
       "name": "Education",
       "doc": "education",
       "group": "Develop"
+    },
+
+    {
+      "name": "Addon Features",
+      "type": "marker",
+      "group": "addons"
+    },
+    {
+      "name": "Toggled Mail",
+      "doc": "mail",
+      "group": "addons"
+    },
+    {
+      "name": "Scratch",
+      "doc": "scratch",
+      "group": "addons"
+    },
+    {
+      "name": "Forms",
+      "doc": "forms",
+      "group": "addons"
+    },
+    {
+      "name": "Plugins",
+      "doc": "plugins",
+      "group": "addons"
     },
     
     {
