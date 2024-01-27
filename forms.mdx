@@ -53,7 +53,10 @@ If you do not have a server, setup a request bin.
 Here is a basic form template.
 
 ```html
-<!-- Include Same Toggled Header -->
+---
+name: {Form Title}
+description: {Form Description}
+---
 
 <!-- Each question (input) will be displayed separately. Only one question will be on the page at a time. -->
 
@@ -62,6 +65,8 @@ Here is a basic form template.
 <Question data-type="number" data-placeholder="Enter a number" data-required="true" data-label="Enter a Number" id="2"></Question>
 
 <Question data-type="email" data-placeholder="Enter your email" data-required="true" data-label="Enter your Email" id="3"></Question>
+
+<onSubmit display="✅ This Message Displays When a Form is Submitted"></onSubmit>
 ```
 
 ## Deployment
