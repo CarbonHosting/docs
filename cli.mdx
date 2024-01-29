@@ -3,9 +3,9 @@ name: Toggled CLI
 description: Control Toggled with the command line.
 ---
 
-# Using The Toggled CLI
+# The Toggled CLI
 
-Use this to design, develop, and deploy packages, addons, and more for Toggled.tech. This is intended for use of advanced developers only.
+The Toggled CLI can be used to design and deploy sites and addons for Toggled.tech. This is intended for advanced developers.
 
 ## Getting Started
 
@@ -17,7 +17,71 @@ npm i toggled-cli
 
 View the NPM package at https://www.npmjs.com/package/toggled-cli
 
-### toggled.json
+## Logging In
+
+Run:
+
+```bash
+toggled login
+```
+
+# Developing Sites
+
+## toggled.json
+
+The first step to designing anything with the Toggled CLI is creating a toggled.json file.
+
+You can do this by running the following command in the terminal.
+
+```bash
+toggled init website
+```
+
+This will create a new toggled.json file with the type set to website.
+
+## Designing and Developing
+
+You can refer the the rest of the documentation and tutorials for this.
+
+## Deploying
+
+Before you can deploy your site, make sure you fill out the name and author field in `toggled.json`.
+
+```json
+{
+  "name": "{Site Name}",
+  "author": "{Your Name}"
+}
+```
+
+Next, reserve the name you want to use for your site. For example: `toggled.tech/site/{Your Site Name}`
+
+```bash
+toggled reserve {Your Site Name}
+```
+
+Finally, deploy the site with the command below.
+
+```bash
+toggled deploy
+```
+
+Fill out the template name:
+
+```bash
+{template name}
+```
+
+The options are:
+- page
+- pages/docs
+- pages/new
+- pages/land
+- pages/blank
+
+# Developing Packages
+
+## toggled.json
 
 The first step to designing anything with the Toggled CLI is creating a toggled.json file.
 
@@ -29,7 +93,7 @@ toggled init package
 
 This will create a new toggled.json file with the type set to package.
 
-### Package Code
+## Package Code
 
 Design the custom elements in the file set as `main` in toggled.json.
 
@@ -44,7 +108,7 @@ export const BLOCKNAME = (e) => {
 
 You must return the block in an HTML format readable by the browser.
 
-### Deployment
+## Deployment
 
 There are two ways to deploy your custom blocks. If you want full control over hosting then you can host it on your own servers statically. Then import it like this:
 
