@@ -35,11 +35,6 @@
       "group": "Develop"
     },
     {
-      "name:": "Toggled AI",
-      "doc": "ai",
-      "group": "Develop"
-    },
-    {
       "name": "Customization",
       "type": "marker",
       "group": "Develop"
