@@ -38,7 +38,7 @@
       "name:": "Toggled AI",
       "doc": "i",
       "group": "Develop"
-    }
+    },
     {
       "name": "Customization",
       "type": "marker",
